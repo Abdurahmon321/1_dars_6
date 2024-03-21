@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.cat-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cat-container img {
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cat-name {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text-color {
+    color: blue;
+}
